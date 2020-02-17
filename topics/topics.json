@@ -8,14 +8,43 @@
     {
         "id": 2,
         "title": "Лабораторная работа 1",
-        "description": "",
-        "preview": "img/class-diagram.png"
+        "description": "Разметка личной страницы, разработка UML диаграммы прецедентов",
+        "preview": ""
     },
     {
         "id": 3,
         "title": "Лабораторная работа 2",
+        "description": "Заполнение личной страницы, разработка UML Class",
+        "preview": ""
+    },
+    {
+        "id": 4,
+        "title": "Лабораторная работа 3",
         "description": "",
-        "preview": "img/use-case-diagram.png"
+        "preview": ""
+    },
+    {
+        "id": 5,
+        "title": "Лабораторная работа 4",
+        "description": "",
+        "preview": ""
+    },
+    {
+        "id": 6,
+        "title": "Лабораторная работа 5",
+        "description": "",
+        "preview": ""
+    },
+    {
+        "id": 7,
+        "title": "Лабораторная работа 6",
+        "description": "",
+        "preview": ""
+    },
+    {
+        "id": 8,
+        "title": "Лабораторная работа 7",
+        "description": "",
+        "preview": ""
     }
-
 ]
