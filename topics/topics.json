@@ -10,5 +10,11 @@
         "title": "UML Class",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
+    },
+    {
+        "id": 3,
+        "title": "План-капкан",
+        "description": "План действий на семестр",
+        "preview": "http://skladgifts.ru/media/cache/71/fd/71fd53a647c290937ef80d70ec26225d.jpg"
     }
 ]
