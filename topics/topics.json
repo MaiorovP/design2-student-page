@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "title": "План-капкан",
+        "description": "План действий на семестр",
+        "preview": "http://skladgifts.ru/media/cache/71/fd/71fd53a647c290937ef80d70ec26225d.jpg"
     },
     {
         "id": 2,
@@ -13,8 +13,9 @@
     },
     {
         "id": 3,
-        "title": "План-капкан",
-        "description": "План действий на семестр",
-        "preview": "http://skladgifts.ru/media/cache/71/fd/71fd53a647c290937ef80d70ec26225d.jpg"
+        "title": "UML Use Case",
+        "description": "Диаграмма прецедента",
+        "preview": "img/use-case-diagram.png"
     }
+
 ]
