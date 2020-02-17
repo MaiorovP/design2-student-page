@@ -11,4 +11,10 @@
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
     }
+    {
+        "id": 3,
+        "title": "План-капкан",
+        "description": "План работы 8 семестра",
+        "preview": "http://leora.ru/upload/iblock/9f7/9f7479ca6944a3e09d6e31a9db768632.jpg"
+    }
 ]
