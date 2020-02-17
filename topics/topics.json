@@ -10,11 +10,5 @@
         "title": "UML Class",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
-    },
-    {
-        "id": 3,
-        "title": "План-капкан",
-        "description": "План работы 8 семестра",
-        "preview": "https://s.a-5.ru/images/product/big/413501_a.jpg"
     }
 ]
