@@ -7,14 +7,14 @@
     },
     {
         "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
+        "title": "Лабораторная работа 1",
+        "description": "",
         "preview": "img/class-diagram.png"
     },
     {
         "id": 3,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
+        "title": "Лабораторная работа 2",
+        "description": "",
         "preview": "img/use-case-diagram.png"
     }
 
