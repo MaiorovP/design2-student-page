@@ -156,6 +156,24 @@
           "type": "image",
           "data": "File/useCase-2.png"
         },
+	{
+            "type": "text",
+            "data": [
+                {
+                    "text": "Исключения",
+                    "class": "md-title"
+                }
+                    ]
+        },
+	{
+            "type": "text",
+            "data": 
+			[
+                {
+                    "text": "Недостаточное время для выполнения работы"
+                }
+            ]
+	},		
         {
             "type": "text",
             "data": [
