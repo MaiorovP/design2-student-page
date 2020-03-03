@@ -1,0 +1,35 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor M as "Посетитель"
+actor M0 as "Человек"
+actor G as "Администратор"
+
+package APP as "Веб-сайт центра технических систем безопасности"{
+usecase A as "Поиск информации"
+usecase B as "Просмотр информации"
+usecase C as "Написать письмо"
+usecase D as "Управление заявками"
+usecase E as "Изменение информации"
+usecase I as "Заполнить заявку"
+}
+G --|> (E)
+M0 --|> M
+M0 --|> G
+M --|> A
+M --|> B
+M --|> C
+M --|> I
+G --|> B
+G --|> D
+G --|> E
+@enduml
