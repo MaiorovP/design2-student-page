@@ -63,20 +63,22 @@
         },
         {
             "type": "text",
-            "data": [
+            "data": 
+			[
                 {
                     "text": "Участники и цели",
                     "class": "md-title"
                 }
             ]
         },
-         {
+        {
             "type": "image",
             "data": "img/Результат.jpg"
         },
         {
             "type": "text",
-            "data": [
+            "data": 
+			[
                 {
                     "text": "Предусловия",
                     "class": "md-title"
@@ -85,7 +87,8 @@
         },
         {
             "type": "text",
-            "data": [
+            "data": 
+			[
                 {
                     "text": "Идея. Исследованая предметная область."
                 }
@@ -93,7 +96,8 @@
         },
 		{
             "type": "text",
-            "data": [
+            "data": 
+			[
                 {
                     "text": "Разработано техническое задание"
                 }
@@ -101,7 +105,8 @@
         },
         {
             "type": "text",
-            "data": [
+            "data": 
+			[
                 {
                     "text": "Постусловия",
                     "class": "md-title"
@@ -110,7 +115,8 @@
         },
         {
             "type": "text",
-            "data": [
+            "data": 
+			[
                 {
                     "text": "Рабочий веб-сайт"
                 }
@@ -118,7 +124,8 @@
         },
 		{
             "type": "text",
-            "data": [
+            "data": 
+			[
                 {
                     "text": "Доступность веб-сайта"
                 }
@@ -128,11 +135,12 @@
           "type": "image",
           "data": "img/Цель.jpg"
         },
-                {
+        {
             "type": "text",
-            "data": [
+            "data": 
+			[
                 {
-                    "text": "Диаграмма USE Case"
+                    "text": "Диаграмма USE Case",
 					"class": "md-title"
                 }
             ]
