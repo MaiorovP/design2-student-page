@@ -15,6 +15,7 @@ actor M0 as "Человек"
 actor G as "Администратор"
 actor T as "WordPress"
 actor T0 as "CMS"
+actor Mod as "Модуль"
 
 package APP as "Веб-сайт центра технических систем безопасности"{
 usecase A as "Поиск информации"
@@ -37,4 +38,8 @@ E -- T
 D -- T
 M0 <|-- M
 M0 <|-- G
+A -- Mod
+B -- Mod
+C -- Mod
+I -- Mod
 @enduml
