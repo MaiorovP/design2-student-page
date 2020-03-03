@@ -1,0 +1,37 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+left to right direction
+actor M as "Разработчки"
+actor M0 as "Человек"
+actor T as "WordPress"
+actor T0 as "CMS"
+
+
+package APP as "Разработка средств информационной поддержки для центра технических систем безопасности"{
+usecase A as "Создание макета"
+usecase B as "Верстка"
+usecase C as "Наполнение"
+usecase D as "Запуск"
+}
+
+M -- A
+M -- B
+M -- C
+M -- D
+M0 <|-- M
+
+T --|> T0
+A -- T
+B -- T
+C -- T
+D -- T
+@enduml
