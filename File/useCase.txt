@@ -13,6 +13,8 @@ left to right direction
 actor M as "Посетитель"
 actor M0 as "Человек"
 actor G as "Администратор"
+actor T as "WordPress"
+actor T0 as "CMS"
 
 package APP as "Веб-сайт центра технических систем безопасности"{
 usecase A as "Поиск информации"
@@ -22,14 +24,17 @@ usecase D as "Управление заявками"
 usecase E as "Изменение информации"
 usecase I as "Заполнить заявку"
 }
-G --|> (E)
-M0 --|> M
-M0 --|> G
-M --|> A
-M --|> B
-M --|> C
-M --|> I
-G --|> B
-G --|> D
-G --|> E
+
+M -- A
+M -- B
+M -- C
+M -- I
+G -- B
+G -- D
+G -- E
+T --|> T0
+E -- T
+D -- T
+M0 <|-- M
+M0 <|-- G
 @enduml
