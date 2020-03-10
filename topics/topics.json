@@ -7,7 +7,13 @@
     },
     {
         "id": 2,
-        "title": "Лабораторные работы",
+        "title": "Лабораторная работа 1",
+        "description": "Выполнение лабораторных работ",
+        "preview": "http://www.mas-service.ru/wp-content/uploads/2017/07/3bVrN6.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Лабораторная работа 2",
         "description": "Выполнение лабораторных работ",
         "preview": "http://www.mas-service.ru/wp-content/uploads/2017/07/3bVrN6.jpg"
     },
