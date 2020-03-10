@@ -173,33 +173,6 @@
                     "text": "Недостаточное время для выполнения работы"
                 }
             ]
-	},		
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "== Заполнение личной страницы, разработка UML Class ==",
-                    "class": "md-title"
-                }
-                    ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Диаграмма классов",
-                    "class": "md-title"
-                }
-                    ]
-        },
-        {
-         "type": "link",
-            "data": [
-                {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
-                }
-                    ]
-        }
+	}		
       ]
 }
