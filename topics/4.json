@@ -142,20 +142,6 @@
           "type": "image",
           "data": "img/Результат.jpg"
         },
-        {
-            "type": "text",
-            "data": 
-			[
-                {
-                    "text": "Диаграмма USE Case",
-					"class": "md-title"
-                }
-            ]
-        },
-        {
-          "type": "image",
-          "data": "File/useCase-2.png"
-        },
 	{
             "type": "text",
             "data": [
