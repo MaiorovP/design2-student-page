@@ -169,6 +169,10 @@
                 }
                     ]
         },
+	{
+          "type": "image",
+          "data": "img/class.jpg"
+        },
         {
          "type": "link",
             "data": [
